@@ -1,0 +1,11 @@
+  @media(max-width:767px){
+  .table-bordered input[type="text"]{
+    padding:5px;
+  }
+  .input-group.btn-block{
+    display:block;
+  }
+  .input-group.btn-block .input-group-btn{
+    padding-top:5px;
+  }
+}

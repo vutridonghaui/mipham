@@ -1,0 +1,20 @@
+/*màu hồng nhạt dần*/
+.mau1{
+	/*mau ban dau - xanh: #80bb35;*/
+	/*background-color: #dd598a !important ;*/
+	/*background-color: #ea739f !important ;*/
+	background-color: #eb78a3 !important ;
+}
+
+/*/mau lien he mua hang*/
+.mau2{
+	background:  #ea739f !important;
+}
+.mauchu{
+	color: #ea739f !important;
+}
+
+/*dinh dang ten san pham Form3*/
+.text1{
+	font-size: 130%;
+}
